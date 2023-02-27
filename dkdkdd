@@ -1,0 +1,17 @@
+[33mcommit 3e75b7efd53f56ecc79c46c52967d940e3abba2f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Ella Byun <yantle@naver.com>
+Date:   Mon Feb 27 14:09:07 2023 +0900
+
+    added new feature
+
+[33mcommit 953535c28ed3c12e160185b7408781a8a3711f1b[m
+Author: Ella Byun <yantle@naver.com>
+Date:   Mon Feb 27 13:40:45 2023 +0900
+
+    changed text.txt added second-commit.txt
+
+[33mcommit 410fad4189c6f2b61c8653cb84f83d0117d582f4[m
+Author: Ella <yantle@naver.com>
+Date:   Mon Feb 27 13:10:33 2023 +0900
+
+    added test.txt file
